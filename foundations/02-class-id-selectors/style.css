@@ -1,5 +1,5 @@
 .text {
-  background-color: hsla(298, 100%, 74%, 1);
+  background-color: rgb(255, 167, 167;
   font-family: Verdana, "Dejavu Sans", sans-serif;
 }
 
@@ -8,12 +8,12 @@
 }
   
 #no2 {
-  color: blue;
+  color: #0000ff;
   font-size: 36px;
 }
 
 #no4 {
-  background-color: hsla(92, 65%, 63%, 1);
+  background-color: hsl(120, 100%, 75%);
   font-weight: bold;
 }
 
